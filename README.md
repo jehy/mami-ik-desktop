@@ -1,3 +1,3 @@
-# mami-ik-desktop
+# mami-ir-desktop
 
-MAMI student's IK stand project part
+MAMI student's IR stand project part
